@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated typing text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kaybhee;Entry+Backend+developer+, sometimes+I+REACT+(REACT+NATIVE)+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;From+Nigeria+"![image](https://github.com/user-attachments/assets/a27112b8-45af-4054-8a77-67e7c1e1c919) alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kaybhee;Entry+Backend+developer+, sometimes+I+REACT+(REACT+NATIVE)+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;From+Nigeria+"![image](https://github.com/user-attachments/assets/a27112b8-45af-4054-8a77-67e7c1e1c919)" alt="Typing SVG" />
 
 <!-- Profile Metrics -->
 [![GitHub followers](https://img.shields.io/github/followers/Kaybhee?logo=github&style=flat-square&color=FF69B4&labelColor=0D1117)](https://github.com/Kaybhee)
@@ -29,7 +29,7 @@
 #### **Database**
 <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb" alt="Database" title="Database" />
 
-#### **Tools/Electrical Tools**
+#### **Toolss**
 <img src="https://skillicons.dev/icons?i=git,github,anaconda,postman,vscode,arduino,azure" alt="Tools" title="Tools" />
 
 </div>
