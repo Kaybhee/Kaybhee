@@ -18,18 +18,19 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 1rem; justify-items: center;">
 
 #### **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,javascript" alt="Frontend" title="Frontend" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,markdown" alt="Frontend" title="Frontend" />
 
 #### **Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,expressjs " alt="Backend" title="Backend" />
+
 #### **Data Science**
-<img src = "https://skillicons.dev/icons?i=python,sklearn,tensorflow,kaggle,Huggingface,Streamlit" alt= "ML" title = "Machine Learning"/>
+<img src = "https://skillicons.dev/icons?i=python,sklearn,tensorflow,selenium" alt= "ML" title = "Machine Learning"/>
 
 #### **Database**
 <img src="https://skillicons.dev/icons?i=postgreSQL,firebase,mongodb" alt="Database" title="Database" />
 
 #### **Tools/Electrical Tools**
-<img src="https://skillicons.dev/icons?i=git,postman,vscode, Anaconda, Proteus,Arduino IDE" alt="Tools" title="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,anaconda,postman,vscode,Arduino,Azure" alt="Tools" title="Tools" />
 
 </div>
 
