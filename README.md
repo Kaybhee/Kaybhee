@@ -1,8 +1,7 @@
 <div align="center">
   
 <!-- Animated typing text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&height=80&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kaybhee;Backend+developer(new+role)+%F0%9F%92%BB; ML+Engineer+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;From+Nigeria,+NG" alt="Typing SVG" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kaybhee;Backend+developer(new+role)+%F0%9F%92%BB;ML+Engineer+%F0%9F%92%BB;A+Tech+Enthusiast+At+Heart+%F0%9F%A4%97;From+Nigeria,+NG" alt="Typing SVG" /></a>
 <!-- Profile Metrics -->
 [![GitHub followers](https://img.shields.io/github/followers/Kaybhee?logo=github&style=flat-square&color=FF69B4&labelColor=0D1117)](https://github.com/Kaybhee)
 [![Visitors](https://komarev.com/ghpvc/?username=Kaybhee&color=FF69B4&style=flat-square)](https://github.com/Kaybhee)
@@ -30,7 +29,7 @@
 <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb" alt="Database" title="Database" />
 
 #### **Toolss**
-<img src="https://skillicons.dev/icons?i=git,github,anaconda,postman,vscode,arduino,azure" alt="Tools" title="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,anaconda,postman,vscode,arduino,azure,swagger" alt="Tools" title="Tools" />
 
 </div>
 
