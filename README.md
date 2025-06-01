@@ -28,8 +28,8 @@
 #### **Database**
 <img src="https://skillicons.dev/icons?i=postgres,firebase,mongodb" alt="Database" title="Database" />
 
-#### **Toolss**
-<img src="https://skillicons.dev/icons?i=git,github,anaconda,postman,vscode,arduino,azure,swagger" alt="Tools" title="Tools" />
+#### **Tools**
+<img src="https://skillicons.dev/icons?i=git,github,anaconda,postman,vscode,arduino,azure,vim" alt="Tools" title="Tools" />
 
 </div>
 
