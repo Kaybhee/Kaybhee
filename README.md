@@ -64,7 +64,7 @@
 
 <div align="center" style="display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaybhee.github.io/AbdulKabir.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kaybhee.github.io/about-me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kaybee7)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulkabirbadru@gmail.com)
 
