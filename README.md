@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,markdown" alt="Frontend" title="Frontend" />
 
 #### **Backend**
-<img src="https://skillicons.dev/icons?i=nodejs,expressjs " alt="Backend" title="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,python, typescript " alt="Backend" title="Backend" />
 
 #### **Machine Learning**
 <img src = "https://skillicons.dev/icons?i=python,sklearn,tensorflow" alt= "ML" title = "Machine Learning"/>
